@@ -13,8 +13,11 @@ class AnotherClassInAnotherFile {
     init() {
         
         //Step 8. Try to print aFilePrivateProperty Here
+        let aClass = AClass()
         
         //Step 10. Try to print anInternalProperty Here
+        print("Test")
+        print(aClass.anInternalProperty)
         
     }
     

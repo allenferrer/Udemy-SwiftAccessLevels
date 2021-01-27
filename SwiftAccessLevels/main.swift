@@ -13,3 +13,6 @@ let aClass = AClass()
 aClass.methodA()
 
 
+aClass.methodB()
+
+
